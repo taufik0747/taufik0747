@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taufik
-- 👀 I’m a professional software Engineer 
+- 👀 I’m a Professional Software Engineer 
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me 
 Linkedin: Taufikur Rahaman Youtube: Learnology
